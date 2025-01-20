@@ -8,7 +8,7 @@
     "scripts": {
     "start": "node itxxwasi.js"
   },
-  "author": "WasiTech",
+  "author": "NIMA_CODER",
   "license": "GPL-3.0 license",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
